@@ -1,30 +1,4 @@
 #EXTM3U
-	
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b0be1e3ddbc37ae133fd52e75a94fe0.webp" group-title="Euro news", Euro news 
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-chno="8" group-title="tv" tvg-logo="https://imgur.com/ZOX7xh6",telemundo
-https://h1.ustvgo.la/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDIyIDg6NTU6NTkgUE0maGFzaF92YWx1ZT1yelpmV3FVSVN1VSs5bUVnZDNLMGVBPT0mdmFsaWRtaW51dGVzPTI0MA==
-#EXTINF:-1 tvg-chno="4" group-title="tv" tvg-logo="https://imgur.com/l0w13EY",DW español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
-#EXTINF:-1 tvg-chno="8" group-title="tv" tvg-logo="https://imgur.com/ooBLgBh",RT español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-chno="14" group-title="tv",TeleSur
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:-1,streamlock
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 tvg-chno="16" group-title="tv",QHS
-https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/HQs/chunklist.m3u8
-#EXTINF:-1 tvg-chno="17" group-title="tv",Rnn
-#EXTINF:-1 group-title="Animation;Kids",Cartoonito Mexico
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1,cloufront
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
-#EXTINF:-1,foxsport2
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8	
-#EXTINF:-1,tntserie
-https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CogFF1iuxiSlvY-iMavp5hUq5WqDNQRxkMl6W4KmggntCbsBvDnw9nVFAn5BQKfARdxLR4jnuv96CI6N0PS35GeXSjni1emxx0uGB4W0t73HI6fXCV3fAPRH3ZpO2sRpCnSMg4I5Q7Um7aTbWMVmU7Gdv-R7r50h0B-JAHmn9bg8nURKAAAoljp83Wc_LjWtcpTlTd_TvXUrwb61Ufx-qVim1Q-acLtZ0KWmWTrdV6oJ5Hq2UKNm9WWRIbJCOwK38_PeCawLu-1HWM0j0Du5QAwC9SAO_fM_kRO_ypDiUnsR1LBZztvsxCVGclyYS3ag0F8V-nr3uXsxunzqA4O6dRteztQEuAoINlZBiNvdIE3O4MRQfJYjb0XxRZA2wgMOo5GXoYnzKDCyiwxQIad_RdOXLmGqQ0A47SH9O0Ke-NuJpk7xr8TiTMv1dFTmSlmAgJeYdYcbm51yXhjZ4G5-Oivj_789ys6zRhTF20pjJi9xYJN2HpA9fmKZdhK06nCDnHpd47BC-djoJKm9p4OSfkfPbYfiXlXtOwC3gxIZHQw4cUwbcMvSe5ri-BUQAXCaaeHeQGw5hg54-6FhWd2wSOV609Q-cLUXmoamwu-TsxmcYfa0ci223GiuOE_8_6CCSHb4Uc6fYyMcj40cOFCREK9qMYoyUMr2FUcAYe0DHZgvcsA-48yyD5N5u2bMPeqErkRmCe2P9l59DzHIvx2vuVtNOq5j_J6n8blYotN0ELtMY0jgJ7mloiow1DssIjvtx4DOzHvKMfbC_7ctgTITFDGpyaFkcnPkjA3OTlaDKMvETnHJwpJnDqLdknNLCQ9pluj8145MH_OryEPmqQGUApYpzFWkFZYL0O56Ggwtc1p9-9zBRHh3oCIgASoJZXUtd2VzdC0yMLEG.m3u8
-#EXTINF:-1,cartoonntwork
-https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
+
 #EXTINF:-1,cartoonntwor version kids
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
